@@ -1,6 +1,8 @@
-## Hi there, I'm Fernando Consiglieri 👋
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-I am a final-year Computer Science Engineering student. Despite having experience and a degree in mobile application development, I am eager to broaden my horizons and explore other areas within computer science. I’m interested in expanding my knowledge and discovering new fields in the industry.
+<h1><b> Hi there, I'm Fernando Consiglieri</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+
+<p align="justify">I am a final-year Computer Science Engineering student. Despite having experience and a degree in mobile application development, I am eager to broaden my horizons and explore other areas within computer science. I’m interested in expanding my knowledge and discovering new fields in the industry.</p>
 
 - 🚀 I’m eager to join new projects and collaborate with others to build innovative solutions.
 - 🧐 I have a strong interest in cybersecurity and am actively expanding my skills in this field.
@@ -20,7 +22,7 @@ I am a final-year Computer Science Engineering student. Despite having experienc
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 <p align="center"> 
   &emsp; 
@@ -36,7 +38,7 @@ I am a final-year Computer Science Engineering student. Despite having experienc
   &emsp;
 	<img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   &emsp;
-	<img alt="Sql" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+	<img alt="Sql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   &emsp;
 	<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   &emsp;
@@ -45,3 +47,13 @@ I am a final-year Computer Science Engineering student. Despite having experienc
 	<img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
+---
+
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Connect with me!
+
+<div align="center">
+  <a href="mailto:fconsiglierialcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="www.linkedin.com/in/fernando-consiglieri-alcántara-848532225"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+</div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
