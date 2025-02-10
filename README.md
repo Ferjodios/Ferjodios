@@ -5,7 +5,7 @@
 <p align="justify">I am a final-year Computer Science Engineering student. Despite having experience and a degree in mobile application development, I am eager to broaden my horizons and explore other areas within computer science. I’m interested in expanding my knowledge and discovering new fields in the industry.</p>
 
 - 🚀 I’m eager to join new projects and collaborate with others to build innovative solutions.
-- 🧐 I have a strong interest in cybersecurity and am actively expanding my skills in this field.
+- 🧐 I have a strong interest in software development and artificial intelligence, while also actively expanding my skills in cybersecurity.
 - 📈 I'm always looking to improve my coding practices and explore the latest tools and technologies.
 
 ---
