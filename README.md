@@ -2,14 +2,20 @@
 
 <h1><b> Hi there, I'm Fernando Consiglieri</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
-<p align="justify">I am a final-year Computer Science Engineering student. Despite having experience and a degree in mobile application development, I am eager to broaden my horizons and explore other areas within computer science. I’m interested in expanding my knowledge and discovering new fields in the industry.</p>
+<p align="justify">
+I am a Computer Science Engineer focused on building reliable and practical software systems for real-world environments. My experience includes software development, industrial systems, infrastructure, device integration, and data acquisition, with hands-on work involving backend services, containers, networking, automation, and operational troubleshooting.
+</p>
 
-- 🚀 I’m eager to join new projects and collaborate with others to build innovative solutions.
-- 🧐 I have a strong interest in software development and artificial intelligence, while also actively expanding my skills in cybersecurity.
-- 📈 I'm always looking to improve my coding practices and explore the latest tools and technologies.
+<p align="justify">
+I am especially interested in environments where software must be stable, maintainable, and ready for production use. My areas of interest include backend development, artificial intelligence, observability, and modern infrastructure, particularly in projects that combine software with industrial processes and field devices.
+</p>
+
+- I work on projects involving backend services, Docker, Linux, networking, industrial device integration, and data acquisition systems.
+- I am interested in software that must be robust, observable, and production-ready.
+- I enjoy solving technical challenges related to infrastructure, automation, and system reliability.
+- I continue expanding my knowledge in artificial intelligence while strengthening my engineering skills across the stack.
 
 ---
-
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Projects***
 
 | Repository | Description |
